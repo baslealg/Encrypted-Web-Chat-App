@@ -1,5 +1,5 @@
 # Encrypted-Web-Chat-App
-I create a simple chat application with Node.js and React, where the exchanged messages will have end-to-end encryption using secret keys.
+I create a chat application with Node.js and React, where the exchanged messages will have end-to-end encryption using secret keys.
 
 In recent times, real-time chat applications have grown tremendously. Most organizations have adopted them for communication. For security reasons, the messages exchanged over the network must be encrypted.
 
